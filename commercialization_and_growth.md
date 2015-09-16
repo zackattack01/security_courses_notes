@@ -38,4 +38,3 @@
 - Pual Kunz was trying to make his article database easier to use
 - Joseph Hardin wanted to make supercomputers more user friendly
 - Mitchell Baker (of mozilla) just wanted there to be a free and open source web browser
-
