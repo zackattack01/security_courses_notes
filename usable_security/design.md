@@ -31,3 +31,19 @@
 - Uses a pool of end users that participate on the development of a design along the way
 - Takes advantage of the fact that users may have a completely different perspective on any given part of a design
 - There should be a give and take between the designer and the participating user
+
+###### Good Brainstorming
+- Take notes
+- Listen to others
+- Don't kill other people's ideas
+- Build off of other people's ideas
+- Be visual
+- Go for quantity
+
+###### Designer Centered Design
+- Steve Jobs embodied this, sometimes the average user will get stuck in ideas/designs that have been around
+- Sometimes the designer would be better off thinking of an innovative idea because they know what's possible.
+
+### Takeaways
+- user insight is invaluable 
+- use frequent iteration to build on and develop from past designs
