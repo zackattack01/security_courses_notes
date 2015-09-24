@@ -12,11 +12,11 @@
   - What does it maintain? An invariant
 
 - A precondition can be used to test the arguments of a method call
-- Post-condition could be used to make sure that after an operation has been done the the result still matches what is expected
+- Post-condition could be used to make sure that after an operation has been done the result still matches what is expected
 - An invariant can be used to test whether or not something matches a set of given conditions at all **interesting** times in the program
 
 - Example given: moving a cursor forward
-  - Before the move_forth call the cursor is at any position other than the very last
+  - Before the `move_forth` call the cursor is at any position other than the very last
   - After the cursor's position must be at the pre position + 1
   - These are things that are obvious to you because they are the fundamental properties of your method or data structure, but expressing them explicitly ensures:
     - That the method is never doing something that it wasn't expected to do (could tell you where something went wrong faster)
