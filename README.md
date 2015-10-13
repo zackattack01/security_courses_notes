@@ -6,5 +6,3 @@
   - [University of Maryland's Coursera Usable Security Course](./usable_security/README.md)
 
   - University of Maryland's Coursera Software Security Course
-
-  - Bertrand Meyer's Design by Contract Webinar
