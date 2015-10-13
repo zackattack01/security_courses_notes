@@ -5,4 +5,4 @@
 
   - [University of Maryland's Coursera Usable Security Course](./usable_security/README.md)
 
-  - University of Maryland's Coursera Software Security Course
+  - [University of Maryland's Coursera Software Security Course](./software_security/README.md)
